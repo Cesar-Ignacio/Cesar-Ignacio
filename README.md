@@ -2,7 +2,7 @@
 ### Hi there  mundo.  
 - 🔭 I’m currently working on  un proyeto personal.
 - 🌱 I’m currently learning c++.
-- ⚡ Fun fact: ..No megustan los vedeojuegos-->
+
 -->-->
 <!--
 **Cesar-Ignacio/Cesar-Ignacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...dd
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ..No megustan los vedeojuegos-->
+- ⚡ Fun fact: 
