@@ -1,8 +1,8 @@
 
 ### Hi there  mundo.  
 - 🔭 I’m currently working on  un proyeto personal.
-- 🌱 I’m currently learning c++.
-
+- 🌱 I’m currently learning  python .
+- 
 -->-->
 <!--
 **Cesar-Ignacio/Cesar-Ignacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
