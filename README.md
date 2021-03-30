@@ -1,8 +1,7 @@
 
 ### Hi there  mundo.
-<center>
 <h1>Hola mundo</h1>  
-</center>
+
 
 - 🔭 I’m currently working on  un proyeto personal.
 - 🌱 Actualmente estoy aprendiendo Python.
