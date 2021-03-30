@@ -1,16 +1,7 @@
 
-<h1>Hola mundo:zzz:</h1>
+<img src="https://cdn.dribbble.com/users/2158774/screenshots/4416038/music-boy.gif" >
 
-    javascript
-    function fancyAlert(arg) {
-    if(arg) {
-    $.facebox({div:'#foo'})
-    }
-    }
-<img src="http://cdn.lowgif.com/full/2c4f1c25f5609742-git-and-github-in-plain-english-red-badger-blog.gif" >
 
-- 🔭 I’m currently working on  un proyeto personal.
-- 🌱 Actualmente estoy aprendiendo Python.
 -->->
 
 
