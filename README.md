@@ -1,5 +1,5 @@
 <h2 align="center">Hola mundo <img src="https://images.emojiterra.com/google/android-nougat/512px/1f596.png" width=3%>!!!</h2>
-<img src="https://cdn.dribbble.com/users/2158774/screenshots/4416038/music-boy.gif" align="centre" height=300px width=50%>
+<img src="https://cdn.dribbble.com/users/2158774/screenshots/4416038/music-boy.gif" paddig-left=50px height=300px width=50%>
 
 
 -->->
