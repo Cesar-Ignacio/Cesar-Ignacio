@@ -1,5 +1,5 @@
 
-<img src="https://cdn.dribbble.com/users/2158774/screenshots/4416038/music-boy.gif" height=150px width=100%>
+<img src="https://cdn.dribbble.com/users/2158774/screenshots/4416038/music-boy.gif" height=50% width=100%>
 
 
 -->->
