@@ -1,12 +1,13 @@
 
-<h1>Hola mundo:zzz:</h1>  
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
+<h1>Hola mundo:zzz:</h1>
+
+    javascript
+    function fancyAlert(arg) {
+    if(arg) {
     $.facebox({div:'#foo'})
-  }
-}
-```
+    }
+    }
+
 
 - 🔭 I’m currently working on  un proyeto personal.
 - 🌱 Actualmente estoy aprendiendo Python.
