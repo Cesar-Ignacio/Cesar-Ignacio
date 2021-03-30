@@ -1,4 +1,4 @@
-<h2 color=red>Hola mundo</h2><img src="https://images.emojiterra.com/google/android-nougat/512px/1f596.png" width=20%>
+<h2 color=red>Hola mundo</h2><img src="https://images.emojiterra.com/google/android-nougat/512px/1f596.png" width=5%>
 <img src="https://cdn.dribbble.com/users/2158774/screenshots/4416038/music-boy.gif" height=300px width=100%>
 
 
