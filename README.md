@@ -2,8 +2,15 @@
 ### Hi there  mundo.  
 - 🔭 I’m currently working on  un proyeto personal.
 - 🌱 Actualmente estoy aprendiendo Python.
-https://blogueropipero.files.wordpress.com/2017/02/f5b19-781656a05.gif?w=364
 -->->
+
+'''
+c++
+cout<<"Hola mundo"<<endl;
+print ("hola mundo")
+echo "hola mundo";
+aler  ("Hola mundo")
+'''
 <!--
 **Cesar-Ignacio/Cesar-Ignacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
