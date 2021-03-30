@@ -1,5 +1,5 @@
 
-<center><h1>Hola mundo:zzz:</h1></center>  
+<h1>Hola mundo:zzz:</h1>  
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
@@ -12,13 +12,7 @@ function fancyAlert(arg) {
 - 🌱 Actualmente estoy aprendiendo Python.
 -->->
 
-'''
-c++
-cout<<"Hola mundo"<<endl;
-print ("hola mundo")
-echo "hola mundo";
-aler  ("Hola mundo")
-'''
+
 <!--
 **Cesar-Ignacio/Cesar-Ignacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
