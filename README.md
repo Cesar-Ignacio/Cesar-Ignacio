@@ -7,7 +7,8 @@
     $.facebox({div:'#foo'})
     }
     }
-<img src="https://octodex.github.com/images/yaktocat.png">
+<img src="http://cdn.lowgif.com/full/2c4f1c25f5609742-git-and-github-in-plain-english-red-badger-blog.gif" >
+
 - 🔭 I’m currently working on  un proyeto personal.
 - 🌱 Actualmente estoy aprendiendo Python.
 -->->
