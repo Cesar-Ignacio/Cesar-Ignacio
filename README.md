@@ -1,4 +1,4 @@
-<h2 color="red">Hola mundo</h2>
+<h2 color=red>Hola mundo</h2>
 <img src="https://cdn.dribbble.com/users/2158774/screenshots/4416038/music-boy.gif" height=300px width=100%>
 
 
