@@ -7,7 +7,7 @@
     $.facebox({div:'#foo'})
     }
     }
-    ! [Imagen de Yaktocat] (https://octodex.github.com/images/yaktocat.png)
+! [Imagen de Yaktocat] (https://octodex.github.com/images/yaktocat.png)
 - 🔭 I’m currently working on  un proyeto personal.
 - 🌱 Actualmente estoy aprendiendo Python.
 -->->
