@@ -1,10 +1,9 @@
 <h2 align="center">¡Hola mundo <img src="https://images.emojiterra.com/google/android-nougat/512px/1f596.png" width=3%>!</h2>
-<p  align="center"><img src="https://cdn.dribbble.com/users/2158774/screenshots/4416038/music-boy.gif" height=270px width=50%></p>
-<p align="left" color="Red">
+<p  align="center" display="flex"><img src="https://cdn.dribbble.com/users/2158774/screenshots/4416038/music-boy.gif" height=270px width=50%></p>
+<p align="left">
   <h5>Hola que tal</h5>
 </p>
-  }
-</style>
+
 -->->
 
 <!--
