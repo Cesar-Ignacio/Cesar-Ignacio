@@ -1,5 +1,5 @@
 <h2 align="center">¡Hola mundo <img src="https://images.emojiterra.com/google/android-nougat/512px/1f596.png" width=3%>!</h2>
-<p  align="center"><img src="https://i.pinimg.com/originals/f8/6c/e3/f86ce32348df4103fad3ffa147954c8e.gif" height=270px width=50%  border-radius: 50% ></p>
+<p  align="center"><img src="https://i.pinimg.com/originals/f8/6c/e3/f86ce32348df4103fad3ffa147954c8e.gif" height=270px width=50%  border-radius=50% ></p>
 
 
 
